@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Ozlem</h1>
+<h3 align="center">Hi I'm Ozlem</h3>
 - 🌱 I’m currently learning **Swift and Python**
 
 <h3 align="left">Connect with me:</h3>
