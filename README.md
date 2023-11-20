@@ -1,5 +1,5 @@
 <h2 align="center">Hi I'm Ozlem</h2>
-- 🌱 I’m currently learning **Swift and Python **
+- 🌱 I’m currently learning **React and Python **
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
